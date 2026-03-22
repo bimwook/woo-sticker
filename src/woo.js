@@ -1,7 +1,7 @@
 "use strict";
 const Woo = {};
 ((w)=>{
-  const Version = "0.7.2026.1670";
+  const Version = "0.7.2026.1686";
   const WooTicket = { ticket:"", created:"" };
   const Web = (ticket)=>{
     let token = ticket || "";
